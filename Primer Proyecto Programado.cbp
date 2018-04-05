@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Primer Proyecto Programado" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Primer Proyecto Programado" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Primer Proyecto Programado" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/ColaDeAtencion.h" />
+		<Unit filename="include/ListaDAtencion.h" />
+		<Unit filename="include/ListaDCarreras.h" />
+		<Unit filename="include/ListaDCursos.h" />
+		<Unit filename="include/ListaDEstCurs.h" />
+		<Unit filename="include/ListaDEstudiante.h" />
+		<Unit filename="include/ListaDGrupos.h" />
+		<Unit filename="include/ListaDMesas.h" />
+		<Unit filename="include/ListaDProfesores.h" />
+		<Unit filename="include/NodoDAtencion.h" />
+		<Unit filename="include/NodoDCarreras.h" />
+		<Unit filename="include/NodoDCursos.h" />
+		<Unit filename="include/NodoDEstCurs.h" />
+		<Unit filename="include/NodoDEstudiante.h" />
+		<Unit filename="include/NodoDGrupos.h" />
+		<Unit filename="include/NodoDMesas.h" />
+		<Unit filename="include/NodoDProfesores.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/ColaDeAtencion.cpp" />
+		<Unit filename="src/ListaDAtencion.cpp" />
+		<Unit filename="src/ListaDCarreras.cpp" />
+		<Unit filename="src/ListaDCursos.cpp" />
+		<Unit filename="src/ListaDEstCurs.cpp" />
+		<Unit filename="src/ListaDEstudiante.cpp" />
+		<Unit filename="src/ListaDGrupos.cpp" />
+		<Unit filename="src/ListaDMesas.cpp" />
+		<Unit filename="src/ListaDProfesores.cpp" />
+		<Unit filename="src/NodoDAtencion.cpp" />
+		<Unit filename="src/NodoDCarreras.cpp" />
+		<Unit filename="src/NodoDCursos.cpp" />
+		<Unit filename="src/NodoDEstCurs.cpp" />
+		<Unit filename="src/NodoDEstudiante.cpp" />
+		<Unit filename="src/NodoDGrupos.cpp" />
+		<Unit filename="src/NodoDMesas.cpp" />
+		<Unit filename="src/NodoDProfesores.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

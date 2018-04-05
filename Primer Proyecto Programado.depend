@@ -1,0 +1,209 @@
+# depslib dependency file v1.0
+1522911937 source:/home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/main.cpp
+	<iostream>
+	<unistd.h>
+	"ListaDMesas.h"
+	"ColaDeAtencion.h"
+	"NodoDAtencion.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1521184171 source:/home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/src/ListaCircularDoble.cpp
+	"ListaCircularDoble.h"
+
+1521184171 /home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/include/ListaCircularDoble.h
+	<iostream>
+	"NodoD.h"
+
+1520766861 source:/home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/src/NodoD.cpp
+	"NodoD.h"
+
+1521183823 /home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/include/NodoD.h
+	<iostream>
+
+1520760906 /home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/src/ListaCircularDoble.cpp
+	"ListaCircularDoble.h"
+
+1520995368 /home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/ListaCircularDoble.h
+	<iostream>
+	"NodoD.h"
+
+1520773334 /home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/NodoD.h
+	<iostream>
+
+1520887392 source:/home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/ListaCircularDoble.cpp
+	"ListaCircularDoble.h"
+
+1520766861 source:/home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/NodoD.cpp
+	"NodoD.h"
+
+1520888076 source:/home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/src/Carrera.cpp
+	"Carrera.h"
+
+1520889035 /home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/include/Carrera.h
+	<iostream>
+	<string>
+
+1520889234 source:/home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/src/Curso.cpp
+	"Curso.h"
+
+1520889168 /home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/include/Curso.h
+	<iostream>
+	<string>
+
+1522805425 source:/home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/src/ListaDCarreras.cpp
+	"ListaDCarreras.h"
+
+1522805166 /home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/include/ListaDCarreras.h
+	"NodoDCarreras.h"
+	<stdlib.h>
+	<fstream>
+	<string.h>
+
+1522805099 /home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/include/NodoDCarreras.h
+	<iostream>
+	"ListaDCursos.h"
+
+1521175793 source:/home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/src/NodoDCarreras.cpp
+	"NodoDCarreras.h"
+
+1522730558 source:/home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/src/ListaDCursos.cpp
+	"ListaDCursos.h"
+
+1522730557 /home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/include/ListaDCursos.h
+	"NodoDCursos.h"
+	<iostream>
+	<fstream>
+	"string.h"
+
+1522728145 /home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/include/NodoDCursos.h
+	<iostream>
+	"ListaDGrupos.h"
+
+1521184768 source:/home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/src/NodoDCursos.cpp
+	"NodoDCursos.h"
+
+1522449318 source:/home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/src/NodoDGrupos.cpp
+	"NodoDGrupos.h"
+
+1522732332 /home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/include/NodoDGrupos.h
+	<iostream>
+	"ListaDEstCurs.h"
+
+1522735237 /home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/include/ListaDGrupos.h
+	<iostream>
+	"NodoDGrupos.h"
+	<fstream>
+	"string.h"
+	<sstream>
+	"ListaDProfesores.h"
+
+1522735237 source:/home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/src/ListaDGrupos.cpp
+	"ListaDGrupos.h"
+
+1521189562 source:/home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/src/NodoDProfesores.cpp
+	"NodoDProfesores.h"
+
+1522698160 /home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/include/NodoDProfesores.h
+	<iostream>
+
+1521866614 source:/home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/src/ListaDProfesores.cpp
+	"ListaDProfesores.h"
+
+1522697590 /home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/include/ListaDProfesores.h
+	<iostream>
+	"NodoDProfesores.h"
+	<fstream>
+	"string.h"
+	<sstream>
+
+1521193019 source:/home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/src/NodoDEstudiante.cpp
+	"NodoDEstudiante.h"
+
+1522117325 /home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/include/NodoDEstudiante.h
+	<iostream>
+
+1522738558 source:/home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/src/ListaDEstudiante.cpp
+	"ListaDEstudiante.h"
+
+1522738055 /home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/include/ListaDEstudiante.h
+	<iostream>
+	"NodoDEstudiante.h"
+	<fstream>
+	"string.h"
+	<sstream>
+
+1521193948 source:/home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/src/NodoDEstCurs.cpp
+	"NodoDEstCurs.h"
+
+1522738318 /home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/include/NodoDEstCurs.h
+	<iostream>
+
+1522449292 source:/home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/src/ListaDEstCurs.cpp
+	"ListaDEstCurs.h"
+	"NodoDGrupos.h"
+
+1522737889 /home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/include/ListaDEstCurs.h
+	<iostream>
+	"NodoDEstCurs.h"
+	<fstream>
+	"string.h"
+	<sstream>
+	"ListaDEstudiante.h"
+
+1522913427 source:/home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/src/ListaDMesas.cpp
+	"ListaDMesas.h"
+
+1522860115 /home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/include/ListaDMesas.h
+	<iostream>
+	<sstream>
+	"NodoDMesas.h"
+	"ListaDCarreras.h"
+	"ListaDEstCurs.h"
+	"ListaDEstudiante.h"
+	"ListaDProfesores.h"
+	"ColaDeAtencion.h"
+	<fstream>
+	<time.h>
+	<ctime>
+	<math.h>
+	<chrono>
+	<unistd.h>
+
+1522912352 source:/home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/src/NodoDMesas.cpp
+	"NodoDMesas.h"
+
+1522911937 /home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/include/NodoDMesas.h
+	<iostream>
+	<stdlib.h>
+	"ListaDEstudiante.h"
+	"ListaDProfesores.h"
+	"ListaDCarreras.h"
+
+1522113558 source:/home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/src/ListaDAtencion.cpp
+	"ListaDAtencion.h"
+
+1522102540 /home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/include/ListaDAtencion.h
+	<iostream>
+	"NodoDAtencion.h"
+	<fstream>
+	"string.h"
+	<sstream>
+
+1522100219 source:/home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/src/NodoDAtencion.cpp
+	"NodoDAtencion.h"
+
+1522859258 /home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/include/NodoDAtencion.h
+	<iostream>
+
+1522822868 source:/home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/src/ColaDeAtencion.cpp
+	"ColaDeAtencion.h"
+
+1522814454 /home/retr0/Escritorio/SEMESTRE I 2018/ED/Primer Proyecto Programado/include/ColaDeAtencion.h
+	<iostream>
+	"NodoDAtencion.h"
+	<fstream>
+	"string.h"
+	<sstream>
+

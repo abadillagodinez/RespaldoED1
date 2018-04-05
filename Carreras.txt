@@ -1,0 +1,8 @@
+NH;Administracion de Empresas
+WP;Ensenanza de la Matematica con Entornos Tecnologicos
+RW;Ingenieria en Biotecnologia
+NG;Ingenieria en Diseno Industrial
+CR;Administracion de Tecnologia de Informacion
+IW;Ingenieria en Computacion
+JV;Gestion en Turismo Sostenible
+KA;Produccion Industrial

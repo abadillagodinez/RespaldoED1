@@ -1,0 +1,16 @@
+Codigo    Carrera         Nombre
+  852       NG	    Lillian Eugenia Gomez Alvarez
+  981       NG	    Sixto Naranjo Marin
+  807       IW	    Gerardo Emilio Duque Gutierrez
+  973       WP	    German Antonio Lotero Upegui
+  856       RW	    Oscar Dario Murillo Gonzalez
+  354       IW	    Augusto Osorno Gil
+  845       IW	    Hector Ivan Gonzalez Castano
+  403       IW	    Carlos Mario Montoya Serna
+  929       NG	    William de J Ramirez Vasquez
+  468       NG	    Jaime Lopez Tobon
+  312       JV	    Jorge Uribe Botero
+  357       IW	    Hector Damian Mosquera Benitez
+  587       JV	    Alvaro Ivan Berdugo Lopez
+  449       IW	    Hernan Dario Hurtado Perez
+  226       CR	    Jorge Leon Ruiz Ruiz

@@ -1,0 +1,6 @@
+Profesores del curso Calculo
+de la carrera de Ingenieria en Computacion
+
+Codigo         Nombre
+  357        Hector Damian Mosquera Benitez
+  767        Maria Isabel Lopez Gaviria

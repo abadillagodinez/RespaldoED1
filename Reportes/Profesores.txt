@@ -1,0 +1,29 @@
+Codigo    Carrera      Categoria            Nombre
+  598       NG		 2	    Javier Ignacio Molina Cano
+  852       NG		 1	    Lillian Eugenia Gomez Alvarez
+  981       NG		 1	    Sixto Naranjo Marin
+  807       IW		 1	    Gerardo Emilio Duque Gutierrez
+  942       NH		 2	    Jhony Alberto Saenz Hurtado
+  973       WP		 1	    German Antonio Lotero Upegui
+  856       RW		 1	    Oscar Dario Murillo Gonzalez
+  354       IW		 1	    Augusto Osorno Gil
+  681       WP		 2	    Cesar Oswaldo Palacio Martinez
+  888       JV		 2	    Gloria Amparo Alzate Agudelo
+  845       IW		 1	    Hector Ivan Gonzalez Castano
+  120       IW		 2	    Beatriz Elena Osorio Laverde
+  967       RW		 2	    Herman Correa Ramirez
+  403       IW		 1	    Carlos Mario Montoya Serna
+  878       NG		 2	    Carlos Augusto Giraldo
+  384       IW		 2	    Arturo Tabares Mora
+  929       NG		 1	    William de J Ramirez Vasquez
+  468       NG		 1	    Jaime Lopez Tobon
+  638       WP		 2	    Gloria Elena Sanclemente Zea
+  183       RW		 2	    Carlos Alberto Villegas Lopera
+  312       JV		 1	    Jorge Uribe Botero
+  767       IW		 2	    Maria Isabel Lopez Gaviria
+  271       JV		 2	    Alfredo Tobon Tobon
+  357       IW		 1	    Hector Damian Mosquera Benitez
+  587       JV		 1	    Alvaro Ivan Berdugo Lopez
+  284       IW		 2	    Carlos Alberto Zarate Yepez
+  449       IW		 1	    Hernan Dario Hurtado Perez
+  226       CR		 1	    Jorge Leon Ruiz Ruiz

@@ -1,0 +1,29 @@
+RW;CMB;Introduccion a la programacion
+NG;ELS;Elemento de computacion
+CR;KFQ;Investigacion de operaciones
+NG;DFC;Matematica general
+NG;KRI;Taller de programacion
+NG;NVL;Fundamentos de la organizacion de computadoras
+JV;EYD;Visualizacion de la informacion
+NH;BAJ;Desarrollo para dispositivos moviles
+IW;TSN;Lenguajes de programacion
+CR;GVD;Estructuras de datos
+IW;SCE;Arquitectura de computadoras
+JV;IFX;Matematica discreta
+IW;VNH;Calculo
+IW;BSW;Algebra lineal
+WP;EAN;Estadistica
+RW;GBO;Probabilidades
+CR;SUU;Aseguramiento de la calidad de software
+CR;IMC;Requerimientos de software
+RW;XNA;Administracion de proyectos
+NG;BTK;Bases de datos
+CR;VHB;Redes
+IW;XXD;Simulacion de sistemas naturales
+CR;WZM;Computacion y sociedad
+CR;FYL;Sistemas operativos
+RW;NWG;Compiladores e interpretes
+CR;JTT;Programacion orientada a objetos
+WP;NWB;Diseño de software
+JV;GVI;Ingles I
+CR;EXS;Comunicacion tecnica

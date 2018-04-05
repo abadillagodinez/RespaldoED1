@@ -1,0 +1,27 @@
+Estudiantes de la carrera Administracion de Empresas
+
+ID: 2017330548
+Nombre: Alejandro Alzate Garces
+Direccion: Alajuela
+Telefono: 51708206
+
+ID: 2015143546
+Nombre: Gonzalo Lopez Gaviria
+Direccion: Guanacaste
+Telefono: 50536042
+
+ID: 2016049736
+Nombre: Luis Oliverio Cardenas Moreno
+Direccion: Heredia
+Telefono: 46471874
+
+ID: 2017067475
+Nombre: Cesar Oswaldo Palacio Martinez 
+Direccion: Limon
+Telefono: 46724371
+
+ID: 2017135075
+Nombre: Carlos Alberto Villegas Lopera 
+Direccion: Limon
+Telefono: 28625776
+
