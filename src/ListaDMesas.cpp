@@ -181,7 +181,6 @@ void ListaDMesas::print(){
         }while(aux != head);
     }
     cout << endl;
-
 }
 
 void ListaDMesas::cargaEstructura(){
@@ -686,7 +685,7 @@ void ListaDMesas::ejecutarAcciones(){
     while (atendidos < getCantidadDeAtenciones()){
         clock_t startTime = clock(); //Start timer
         double secondsPassed;
-        double secondsToDelay = 1;
+        double secondsToDelay = 2078;
         bool flag = true;
         while(flag){
             secondsPassed = (clock() - startTime) / CLOCKS_PER_SEC;
@@ -698,7 +697,7 @@ void ListaDMesas::ejecutarAcciones(){
             if(secondsPassed >= secondsToDelay){
                 flag = false;
                 cout << "Atendiendo, espere.." << endl;
-                //cout << "han pasado " << secondsPassed << endl;
+                cout << "han pasado " << secondsPassed << endl;
             }
         }
         atencion->cargarDatos();
